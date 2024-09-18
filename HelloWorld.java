@@ -39,6 +39,8 @@ public class HelloWorld {
     System.out.println("Krishna, Vcubess");
    System.out.println("Krishna, azure");
      System.out.println("Krishna, docker");
+      System.out.println("Krishna sir, DevOps");
+    System.out.println("Krishna sir, Vcubess");
        
 
   }
